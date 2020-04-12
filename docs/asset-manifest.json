@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2ac70e68.chunk.css",
+    "main.js": "./static/js/main.b3e6cc58.chunk.js",
+    "main.js.map": "./static/js/main.b3e6cc58.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2cccc0d3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2cccc0d3.js.map",
+    "static/css/2.f0405d8a.chunk.css": "./static/css/2.f0405d8a.chunk.css",
+    "static/js/2.8be0a6f5.chunk.js": "./static/js/2.8be0a6f5.chunk.js",
+    "static/js/2.8be0a6f5.chunk.js.map": "./static/js/2.8be0a6f5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.2e85832f95bc9774be7b3325c40d9b01.js": "./precache-manifest.2e85832f95bc9774be7b3325c40d9b01.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.f0405d8a.chunk.css.map": "./static/css/2.f0405d8a.chunk.css.map",
+    "static/css/main.2ac70e68.chunk.css.map": "./static/css/main.2ac70e68.chunk.css.map",
+    "static/js/2.8be0a6f5.chunk.js.LICENSE.txt": "./static/js/2.8be0a6f5.chunk.js.LICENSE.txt",
+    "static/media/backbutton.png": "./static/media/backbutton.233c4926.png",
+    "static/media/background_left_half.png": "./static/media/background_left_half.48baca91.png",
+    "static/media/background_right_half.png": "./static/media/background_right_half.743b0bad.png",
+    "static/media/banner.png": "./static/media/banner.6b1a65d8.png",
+    "static/media/cameraborder.png": "./static/media/cameraborder.0248592e.png",
+    "static/media/cardboardinfo.png": "./static/media/cardboardinfo.779bec36.png",
+    "static/media/diylabel.png": "./static/media/diylabel.840678d4.png",
+    "static/media/face1.png": "./static/media/face1.2c1e33c4.png",
+    "static/media/face1quote.png": "./static/media/face1quote.7fd4a071.png",
+    "static/media/face2.png": "./static/media/face2.e4d34baa.png",
+    "static/media/face2quote.png": "./static/media/face2quote.392ee471.png",
+    "static/media/glassinfo.png": "./static/media/glassinfo.4f869443.png",
+    "static/media/googlemaps.png": "./static/media/googlemaps.8be01261.png",
+    "static/media/metalinfo.png": "./static/media/metalinfo.04d94c8a.png",
+    "static/media/paperinfo.png": "./static/media/paperinfo.a697102c.png",
+    "static/media/plasticinfo.png": "./static/media/plasticinfo.29a65c86.png",
+    "static/media/retakebutton.png": "./static/media/retakebutton.f65a00f2.png",
+    "static/media/trashinfo.png": "./static/media/trashinfo.074f756e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cccc0d3.js",
+    "static/css/2.f0405d8a.chunk.css",
+    "static/js/2.8be0a6f5.chunk.js",
+    "static/css/main.2ac70e68.chunk.css",
+    "static/js/main.b3e6cc58.chunk.js"
+  ]
+}
